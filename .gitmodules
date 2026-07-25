@@ -1,0 +1,99 @@
+[submodule "tools/searx"]
+	path = tools/searx
+	url = https://github.com/kernelzeroday/searx.git
+[submodule "tools/reddit-rs"]
+	path = tools/reddit-rs
+	url = https://github.com/kernelzeroday/reddit-rs.git
+[submodule "tools/shodan-rs"]
+	path = tools/shodan-rs
+	url = https://github.com/kernelzeroday/shodan-rs.git
+[submodule "tools/osm"]
+	path = tools/osm
+	url = https://github.com/kernelzeroday/osm.git
+[submodule "tools/wiki"]
+	path = tools/wiki
+	url = https://github.com/kernelzeroday/wiki.git
+[submodule "tools/hf-cli"]
+	path = tools/hf-cli
+	url = https://github.com/kernelzeroday/hf-cli.git
+[submodule "tools/ollama-models"]
+	path = tools/ollama-models
+	url = https://github.com/kernelzeroday/ollama-models.git
+[submodule "tools/hn-cli"]
+	path = tools/hn-cli
+	url = https://github.com/kernelzeroday/hn-cli.git
+[submodule "tools/groundnews-rs"]
+	path = tools/groundnews-rs
+	url = https://github.com/kernelzeroday/groundnews-rs.git
+[submodule "tools/metacritic"]
+	path = tools/metacritic
+	url = https://github.com/kernelzeroday/metacritic.git
+[submodule "tools/polymarket-cli"]
+	path = tools/polymarket-cli
+	url = https://github.com/kernelzeroday/polymarket-cli.git
+[submodule "tools/internet-research"]
+	path = tools/internet-research
+	url = https://github.com/kernelzeroday/internet-research.git
+[submodule "tools/magnets-cli"]
+	path = tools/magnets-cli
+	url = https://github.com/kernelzeroday/magnets-cli.git
+[submodule "tools/tpb-cli"]
+	path = tools/tpb-cli
+	url = https://github.com/kernelzeroday/tpb-cli.git
+[submodule "tools/nyaa-cli"]
+	path = tools/nyaa-cli
+	url = https://github.com/kernelzeroday/nyaa-cli.git
+[submodule "tools/rutracker"]
+	path = tools/rutracker
+	url = https://github.com/kernelzeroday/rutracker.git
+[submodule "tools/torrentget"]
+	path = tools/torrentget
+	url = https://github.com/kernelzeroday/torrentget.git
+[submodule "tools/audiobookbay-cli"]
+	path = tools/audiobookbay-cli
+	url = https://github.com/kernelzeroday/audiobookbay-cli.git
+[submodule "tools/ytsmx"]
+	path = tools/ytsmx
+	url = https://github.com/kernelzeroday/ytsmx.git
+[submodule "tools/youtube-cli"]
+	path = tools/youtube-cli
+	url = https://github.com/kernelzeroday/youtube-cli.git
+[submodule "tools/tubecast"]
+	path = tools/tubecast
+	url = https://github.com/kernelzeroday/tubecast.git
+[submodule "tools/jellyfin-cli"]
+	path = tools/jellyfin-cli
+	url = https://github.com/kernelzeroday/jellyfin-cli.git
+[submodule "tools/roku-cli"]
+	path = tools/roku-cli
+	url = https://github.com/kernelzeroday/roku-cli.git
+[submodule "tools/epub"]
+	path = tools/epub
+	url = https://github.com/kernelzeroday/epub.git
+[submodule "tools/anonkeyst"]
+	path = tools/anonkeyst
+	url = https://github.com/kernelzeroday/anonkeyst.git
+[submodule "tools/cla"]
+	path = tools/cla
+	url = https://github.com/kernelzeroday/cla.git
+[submodule "tools/subversive"]
+	path = tools/subversive
+	url = https://github.com/kernelzeroday/subversive.git
+[submodule "tools/pcnoise"]
+	path = tools/pcnoise
+	url = https://github.com/kernelzeroday/pcnoise.git
+[submodule "tools/say-rs"]
+	path = tools/say-rs
+	url = https://github.com/kernelzeroday/say-rs.git
+[submodule "tools/magic-greyscale"]
+	path = tools/magic-greyscale
+	url = https://github.com/kernelzeroday/magic-greyscale.git
+[submodule "tools/d2info-rs"]
+	path = tools/d2info-rs
+	url = https://github.com/kernelzeroday/d2info-rs.git
+[submodule "tools/cb"]
+	path = tools/cb
+	url = https://codeberg.org/kernelzeroday/cb.git
+[submodule "tools/netnews-rs"]
+	path = tools/netnews-rs
+	url = https://github.com/kernelzeroday/netnews-rs.git
