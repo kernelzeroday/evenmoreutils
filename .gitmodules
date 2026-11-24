@@ -97,3 +97,6 @@
 [submodule "tools/netnews-rs"]
 	path = tools/netnews-rs
 	url = https://github.com/kernelzeroday/netnews-rs.git
+[submodule "tools/4chan-cli"]
+	path = tools/4chan-cli
+	url = https://github.com/kernelzeroday/4chan-cli.git

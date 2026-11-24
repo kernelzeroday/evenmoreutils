@@ -53,6 +53,7 @@ Fan out to the open web instead of one walled garden.
 | [hf-cli](tools/hf-cli) | `hf-cli` | Search and browse the Hugging Face model hub from the terminal |
 | [ollama-models](tools/ollama-models) | `ollama-models` | Search and browse the Ollama model registry — no browser required |
 | [hn-cli](tools/hn-cli) | `hn` | Hacker News CLI — top, new, and best stories |
+| [4chan-cli](tools/4chan-cli) | `4chan` | Read-only 4chan — boards, catalogs, threads, and archives via the official JSON API, with agent-friendly JSON output |
 | [groundnews-rs](tools/groundnews-rs) | `groundnews` | Ground News CLI — news bias, blindspots, and source coverage from the terminal |
 | [metacritic](tools/metacritic) | `metacritic` | Query Metacritic from the terminal — no API keys, no scraping |
 | [polymarket-cli](tools/polymarket-cli) | `polymarket` | Query prediction markets — search, view a market, chart its price history |
